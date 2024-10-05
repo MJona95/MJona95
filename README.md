@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Marvin 👋
+
+```js
+const mjona = {
+  pronouns: "he" | "him",
+  code: [ Javascript, Typescript, HTML, CSS ],
+  Tools: [ React, Node, Astro ],
+  Learning: [ Rust, Tauri ]
+}
+```
+
 
 <!--
 **MJona95/MJona95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
