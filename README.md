@@ -4,7 +4,7 @@
 const mjona = {
   pronouns: "he" | "him",
   code: [ Javascript, Typescript, HTML, CSS ],
-  Tools: [ React, Node, Astro ],
+  Tools: [ React, React Native, Node, Astro ],
   Learning: [ Rust, Tauri ]
 }
 ```
